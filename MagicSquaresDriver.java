@@ -10,7 +10,7 @@ public class MagicSquaresDriver {
 		if (n > 13) {
 			n = 13;
 		}
-		MagicSquare.magicSquares(n);
+		MagicSquares.magicSquares(n);
 		input.close();
 	}
 }
