@@ -2,7 +2,7 @@
 //Provide user input to FunLoops
 //11/12/19
 import java.util.Scanner;
-public class FunLoopDriver {
+public class MagicSquaresDriver {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.print("\nNum of Magic Squares(Max 13): " );
@@ -10,7 +10,7 @@ public class FunLoopDriver {
 		if (n > 13) {
 			n = 13;
 		}
-		FunLoops.magicSquares(n);
+		MagicSquare.magicSquares(n);
 		input.close();
 	}
 }
