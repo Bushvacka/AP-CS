@@ -1,7 +1,7 @@
 //Troy Dutton
 //Find Magic Squares and LCM’s
 //11/12/19
-public class FunLoops {
+public class MagicSquares {
 	static int MNCount, lastDigit = 0;
 	static long sum, num, startTime, endTime = 0;
 	static long lastMN = 1;
