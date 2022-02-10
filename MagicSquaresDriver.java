@@ -1,5 +1,5 @@
 //Troy Dutton
-//Provide user input to FunLoops
+//Provide user input to MagicSquares
 //11/12/19
 import java.util.Scanner;
 public class MagicSquaresDriver {
